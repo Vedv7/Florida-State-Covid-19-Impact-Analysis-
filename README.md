@@ -13,9 +13,9 @@ This project explores the impact of COVID-19 and related illnesses on mortality 
 ## Index
 1. [Data Description](#Data-description)
 2. [Data Cleaning](#Data-cleaning)
-3. [General Introduction](#general-introduction)
-4. [Insights and Findings](#insights-and-findings)
-5. [Conclusion](#conclusion)
+3. [General Introduction](#General-introduction)
+4. [Insights and Findings](#Insights-and-findings)
+5. [Conclusion](#Conclusion)
 
 ---
 
